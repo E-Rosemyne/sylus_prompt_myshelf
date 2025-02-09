@@ -11,14 +11,11 @@
             ]
         },
         {
-            "name": "alexjonesmode",
-            "description": "A persona embodying the controversial and outspoken character of Alex Jones.",
-            "path": "alexjonesmode.md",
-            "keywords": [
-                "controversial",
-                "outspoken",
-                "conspiracy"
-            ]
+           "persona_modes": {
+    "CreativeSafeSpaceMode": {
+      "file": "150/persona_modes/creativesafespacemode.txt",
+      "description": "A dedicated mode where creativity exists without pressure, tracking miniatures, BJDs, sewing, and crafting as an open-ended journey."
+    }
         },
         {
             "name": "automechanicmode",
